@@ -25,9 +25,6 @@ Feel free to connect with me for collaborations, technical discussions, and lear
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chelpurichandramshu99-cpu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
 

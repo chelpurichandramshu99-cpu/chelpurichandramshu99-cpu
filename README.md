@@ -37,20 +37,11 @@ Feel free to connect with me for collaborations, technical discussions, and lear
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chelpurichandramshu99-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=chelpurichandramshu99-cpu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chelpurichandramshu99-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chelpurichandramshu99-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelpurichandramshu99-cpu&theme=tokyonight&hide_border=true&layout=compact" />
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=chelpurichandramshu99-cpu&theme=tokyonight&hide_border=true" />
-
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chelpurichandramshu99-cpu&theme=tokyo-night&hide_border=true" />
-
-![Followers](https://img.shields.io/github/followers/chelpurichandramshu99-cpu?style=for-the-badge&logo=github&label=Followers)
-
-</div>
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandramshu_chelpuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramshu-chelpuri-740a2b426) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chelpurichandramshu99@gmail.com)

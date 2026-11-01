@@ -55,8 +55,5 @@ Feel free to connect with me for collaborations, technical discussions, and lear
 
 ![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=chelpurichandramshu99-cpu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
